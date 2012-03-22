@@ -8,7 +8,7 @@ git submodule foreach git pull
 
 to clone to another machine do something like:
 cd ~
-git clone http://github.com/username/dotvim.git ~/.vim
+git clone https://sdixon99@github.com/sdixon99/dotvim.git
 ln -s ~/.vim/vimrc ~/.vimrc
 ln -s ~/.vim/gvimrc ~/.gvimrc
 cd ~/.vim
