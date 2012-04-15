@@ -55,6 +55,3 @@
 [submodule "bundle/jslint.vim"]
 	path = bundle/jslint.vim
 	url = https://github.com/hallettj/jslint.vim.git
-[submodule "bundle/jshint"]
-	path = bundle/jshint
-	url = https://github.com/manalang/jshint.vim.git
